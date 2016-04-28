@@ -1,0 +1,82 @@
+body {
+    margin: 0px auto 0px auto;
+    border-top: 5px solid darkred;
+}
+
+blockquote {
+    /* color: grey; */
+    font-family: 'Monospace';
+    background-color: #f1f1f1;
+}
+
+.wrapper {
+    color: black;
+    font-size: 14px;
+    margin: 0px auto 0px auto;
+    width: 600px;
+    /* font-family: 'Karla', sans-serif; */
+    font-family: 'Merriweather', serif;
+    /* background-color: #ededed; */
+}
+
+a {
+    text-decoration: none;
+    color: darkred;
+}
+
+
+div#header {
+    border: 1px solid black;
+    border-top: 0px solid darkred;
+    margin-bottom: 30px;
+    padding: 3px 0px 3px 0px;
+    /* background-color: #ede6e6; */
+    /* background-color: #000000; */
+    background-color: #f1f1f1;
+}
+
+div#logo a {
+    color: black;
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+div#header #navigation {
+    text-align: center;
+}
+
+div#header #navigation a {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+div#footer {
+    border-top: solid 1px black;
+    color: #555;
+    font-size: 12px;
+    margin-top: 30px;
+    /* padding: 12px 0px 12px 0px; */
+    text-align: center;
+    background-color: white;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+div.info {
+    color: #555;
+    font-size: 14px;
+    font-style: italic;
+}
+
